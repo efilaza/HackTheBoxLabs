@@ -22,13 +22,16 @@ root
 <img width="1224" height="394" alt="image" src="https://github.com/user-attachments/assets/863e698c-0759-48ca-a227-682e767d8351" />
 
 **Username  "root" does the job!**
+
 <img width="1116" height="389" alt="image" src="https://github.com/user-attachments/assets/2a64a289-172a-43e0-8820-e5484431cda8" />
 
 
 Step 6 : ls
+
 <img width="341" height="90" alt="image" src="https://github.com/user-attachments/assets/f6af9fce-f88f-462b-8e09-76354b7aeef5" />
 
 
 Step 7: cat flag.txt
+
 <img width="544" height="98" alt="image" src="https://github.com/user-attachments/assets/35004679-c805-4bbb-ba18-b40fcfb1fbef" />
 
