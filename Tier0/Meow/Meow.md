@@ -2,26 +2,34 @@ Step 1 : Connect to PwnBox
 Step 2: Spawn the trarget Machine to acquire its IP Address
 Target IP: 10.129.25.177
 
-Step 3: Ping the target Machine![9e69697b4523ce44ca4002855deeefab.png](../_resources/9e69697b4523ce44ca4002855deeefab.png)
+Step 3: Ping the target Machine <img width="1224" height="433" alt="image" src="https://github.com/user-attachments/assets/ffb78286-1fc6-4261-a9c2-0fb07a4babc3" />
+
 
 Step 4: nmap -sV 10.129.25.177
-![1ced87f2243928b8e47b44d8611f5939.png](../_resources/1ced87f2243928b8e47b44d8611f5939.png)
+<img width="1206" height="501" alt="image" src="https://github.com/user-attachments/assets/fa3f35b1-59ba-4200-bcec-179f4e23d251" />
 
-Open telnet port 23/tcp telnet
+
+<b>Open telnet port 23/tcp telnet</b>
 
 Step 5 : telnet 10.129.25.177
-![8487c7084f15c2f5224029d14cd249a3.png](../_resources/8487c7084f15c2f5224029d14cd249a3.png)
+<img width="1193" height="475" alt="image" src="https://github.com/user-attachments/assets/eb1600b3-79e7-407d-b1bb-185f23d76eec" />
+
 
 Trying usual usernames with no password:
 admin
 administrator
 root
-![f2592d0f619aecf88d0d793d36a0bf73.png](../_resources/f2592d0f619aecf88d0d793d36a0bf73.png)
+<img width="1224" height="394" alt="image" src="https://github.com/user-attachments/assets/863e698c-0759-48ca-a227-682e767d8351" />
 
-Username  "root" does the job! ![5e9d0ec13d657d0845fe04be6c7a2930.png](../_resources/5e9d0ec13d657d0845fe04be6c7a2930.png)
+
+Username  "root" does the job! 
+<img width="1116" height="389" alt="image" src="https://github.com/user-attachments/assets/2a64a289-172a-43e0-8820-e5484431cda8" />
+
 
 Step 6 : ls
-![6971c98522db12c7c92314e397b99162.png](../_resources/6971c98522db12c7c92314e397b99162.png)
+<img width="341" height="90" alt="image" src="https://github.com/user-attachments/assets/f6af9fce-f88f-462b-8e09-76354b7aeef5" />
+
 
 Step 7: cat flag.txt
-![3633849740ce5f3a7f9f2dc8a4e84345.png](../_resources/3633849740ce5f3a7f9f2dc8a4e84345.png)
+<img width="544" height="98" alt="image" src="https://github.com/user-attachments/assets/35004679-c805-4bbb-ba18-b40fcfb1fbef" />
+
