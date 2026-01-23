@@ -9,7 +9,7 @@ Step 4: nmap -sV 10.129.25.177
 <img width="1206" height="501" alt="image" src="https://github.com/user-attachments/assets/fa3f35b1-59ba-4200-bcec-179f4e23d251" />
 
 
-<b>Open telnet port 23/tcp telnet</b>
+##**Open telnet port 23/tcp telnet**
 
 Step 5 : telnet 10.129.25.177
 <img width="1193" height="475" alt="image" src="https://github.com/user-attachments/assets/eb1600b3-79e7-407d-b1bb-185f23d76eec" />
