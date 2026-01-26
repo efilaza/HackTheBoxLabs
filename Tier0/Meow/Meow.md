@@ -33,5 +33,5 @@ Step 6 : ls
 
 Step 7: cat flag.txt
 
-<img width="544" height="98" alt="image" src="https://github.com/user-attachments/assets/35004679-c805-4bbb-ba18-b40fcfb1fbef" />
+
 
