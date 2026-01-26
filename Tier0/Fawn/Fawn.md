@@ -33,7 +33,7 @@ Step 8: Exit from ftp console > bye
 
 Step 8: See the contents of flag.txt file to acquire the Flag!!! > cat flag.txt
 
-<img width="513" height="266" alt="image" src="https://github.com/user-attachments/assets/370bf6b6-56e1-45e9-b6d3-98aaa197da16" />
+
 
 
 
