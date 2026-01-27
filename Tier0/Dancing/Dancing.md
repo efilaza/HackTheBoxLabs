@@ -23,21 +23,26 @@ Since we do not have any  credentials we try to connect to a share which is prob
 
 Fisrt attempt > smbclient \\\\"target ip"\\ADMIN$
 <img width="814" height="179" alt="image" src="https://github.com/user-attachments/assets/c9d63c92-6ebc-445f-a88c-6c392883ab3f" />
+
 No luck!!!!
 Second attempt > smbclient \\\\"target ip"\\C$
+
 <img width="708" height="129" alt="image" src="https://github.com/user-attachments/assets/24fd0dc0-2ec3-493f-a15d-824c688d71e9" />
 No luck!!!
+
 Third attempt >smbclient \\\\"target ip"\\WorkShares
 
 Success!!!
 
 We are able to view the contents of this share!!!
 Step 7 > See the available commands > help
+
 <img width="1136" height="774" alt="image" src="https://github.com/user-attachments/assets/08555e4e-3fd2-400e-ab0b-51fa624768ee" />
 
 
 There is the ls command and the cd command to navigate to folders.
 Step 7> View the contents > ls
+
 <img width="1130" height="269" alt="image" src="https://github.com/user-attachments/assets/13053d21-13ab-4900-9c56-640813f834e2" />
 
 Navigate to the folders and see their contents 
@@ -48,6 +53,7 @@ We will acquire the file > get worknotes.txt
 
 Folder: James.P has a file named flag.txt
 We will acquire the file > get flag.txt
+
 <img width="1555" height="94" alt="image" src="https://github.com/user-attachments/assets/a0e7c431-05ba-40d5-93fd-d3b8c591600f" />
 
 Step 8: We will exit the interactie console of smb > exit
