@@ -1,4 +1,4 @@
-<img width="1134" height="742" alt="image" src="https://github.com/user-attachments/assets/f6e09fa6-2415-4aae-a500-bdb837fd72cf" /><h1>Dancing Lab</h1>
+<h1>Dancing Lab</h1>
 
 Step1: Spawn the target machine to acquire the target IP
 
