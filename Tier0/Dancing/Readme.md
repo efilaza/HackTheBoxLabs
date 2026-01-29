@@ -7,7 +7,7 @@ Date: January 26,2026 | Difficulty: Very Easy
 Platfrom: Hack The Box
 
 <h2>Executive Summary</h2></br>
-<p></p>
+<p>In this engagement, I performed a security assessment on a Windows-based target. The primary goal was to identify open services and potential misconfigurations. I discovered an unauthenticated SMB share (Null Session) which allowed me to browse the file system and retrieve sensitive information (the flag).</p>
 
 
 <pre>
