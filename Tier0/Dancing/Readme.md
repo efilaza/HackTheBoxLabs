@@ -55,10 +55,11 @@ I connected to the <b>WorkShares</b> directory and explored the subdirectories.<
       cd James.P
       get flag.txt
 </code>
+<h4> Flag Captured </h4>
 </pre>
-<h2> Flag Captured </h2>
 
-<h2>Phase 3: Remediation (The Consultant's View</h2>
+
+<h2>Phase 3: Remediation (The Consultant's View)</h2>
 <p>To mitigate the risk of unathorized data access, I recommend the following securit controls: </p>
 <ol>
   <li> <b>Diasble anonymous/Guset Access:</b>
